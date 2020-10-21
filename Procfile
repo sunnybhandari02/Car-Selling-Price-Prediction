@@ -1,1 +1,1 @@
-web: gunicorn app:app --log-file=-
+web: gunicorn <car-selling-price-predictor-sb>.wsgi --log-file 
